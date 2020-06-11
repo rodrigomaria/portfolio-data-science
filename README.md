@@ -1,12 +1,11 @@
-[![author](https://img.shields.io/badge/author-rodrigomariamorgao-red.svg)](https://www.linkedin.com/in/rodrigomariamorgao) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.comrodrigomariamorgao/portfolio_data_science)
+[![author](https://img.shields.io/badge/author-rodrigomariamorgao-red.svg)](https://www.linkedin.com/in/rodrigomariamorgao) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rodrigomariamorgao/portfolio_data_science/issues)
 
 <p align="center">
   <img src="banner.png" >
 </p>
 
 # Rodrigo Maria Morgão
-<sub>*Software Developer* na Azion</sub>
-<sub>*Data Science Student* na Sigmoidal</sub>
+<sub>*Software Developer* na Azion</sub> | <sub>*Data Science Student* na Sigmoidal</sub>
 
 Sou analista de desenvolvimento de software pleno na [Azion](https://www.azion.com) e estudante de Data Science na escola [Sigmoidal](https://sigmoidal.ai).
 
@@ -23,6 +22,7 @@ Na área de pesquisa acadêmica, trabalhei em projetos nos IFRS campi Restinga e
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rodrigomariamorgao)
 * [Medium](https://medium.com/@rodrigomariamorgao)
+* [Dev](https://dev.to/rodrigomariamorgao)
 
 ---
 
