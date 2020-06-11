@@ -27,7 +27,7 @@ Na área de pesquisa acadêmica, trabalhei em projetos nos IFRS campi Restinga e
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* [**Analisando os Dados do Airbnb: Tokyo:**](https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Analisando_os_Dados_do_Airbnb_Tokyo.ipynb)
+* [**Analisando os Dados do Airbnb: Tokyo**](https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Analisando_os_Dados_do_Airbnb_Tokyo.ipynb)
 
 ---
 
