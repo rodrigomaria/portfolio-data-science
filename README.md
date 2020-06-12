@@ -26,8 +26,7 @@ Na área de pesquisa acadêmica, trabalhei em projetos nos IFRS campi Restinga e
 
 ## Projetos:
 * [**Analisando os Dados do Airbnb: Tokyo**](https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Analisando_os_Dados_do_Airbnb_Tokyo.ipynb)
-* [**Analisando a Violência no Rio de Janeiro**]
-(https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Analisando%20a%20Viole%CC%82ncia%20no%20Rio%20de%20Janeiro.ipynb)
+* [**Analisando a Violência no Rio de Janeiro**](https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Analisando_a_Violencia_RJ.ipynb)
 ---
 
 
