@@ -27,6 +27,7 @@ Na área de pesquisa acadêmica, trabalhei em projetos nos IFRS campi Restinga e
 ## Projetos:
 * [**Analisando os Dados do Airbnb: Tokyo**](https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Analisando_os_Dados_do_Airbnb_Tokyo.ipynb)
 * [**Analisando a Violência no Rio de Janeiro**](https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Analisando_a_Violencia_RJ.ipynb)
+* [**Panorama de casos do COVID-19 no Brasil - 06/2020**](https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Panorama_de_casos_do_COVID_19_no_Brasil_06_2020.ipynb)
 ---
 
 
