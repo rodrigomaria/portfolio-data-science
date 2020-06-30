@@ -70,7 +70,7 @@ def main():
     st.title('Análise de dados Pulseira MiBand')
     st.markdown("""
             Análise dos dados extraídos do monitoramento da pulseira de marca MiBand. \n
-            Para extrair os dados, acesse essa [url](https://user.huami.com/hm_account/2.0.0/index.html#/threeLogin)
+            Para obter teus dados, acesse essa [url](https://user.huami.com/hm_account/2.0.0/index.html#/threeLogin)
             com sua conta, e selecione a opção Exportar dados.
         """)
     file = st.file_uploader('Escolha a base de dados que deseja analisar (.csv)', type='csv')
@@ -125,12 +125,13 @@ def main():
             st.markdown('Histograma da coluna : ' + str(col_num))
             st.write(criar_histograma(col_num, df))
 
-        barras = st.checkbox('Gráfico de barras')
-        if barras:
-            col_num_barras = st.selectbox('Selecione a coluna numerica: ', colunas_numericas, key = 'unique')
-            col_cat_barras = st.selectbox('Selecione uma coluna categorica : ', colunas_object, key = 'unique')
-            st.markdown('Gráfico de barras da coluna ' + str(col_cat_barras) + ' pela coluna ' + col_num_barras)
-            st.write(criar_barras(col_num_barras, col_cat_barras, df))
+        if colunas_object:
+            barras = st.checkbox('Gráfico de barras')
+            if barras:
+                col_num_barras = st.selectbox('Selecione a coluna numerica: ', colunas_numericas, key = 'unique')
+                col_cat_barras = st.selectbox('Selecione uma coluna categorica : ', colunas_object, key = 'unique')
+                st.markdown('Gráfico de barras da coluna ' + str(col_cat_barras) + ' pela coluna ' + col_num_barras)
+                st.write(criar_barras(col_num_barras, col_cat_barras, df))
 
         if colunas_object:
             boxplot = st.checkbox('Boxplot')
