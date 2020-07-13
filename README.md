@@ -8,7 +8,7 @@
 </p>
 
 # Rodrigo Maria Morgão
-<sub>*Software Developer* na Azion</sub> | <sub>*Data Science Student* na Sigmoidal</sub>
+### *Software Developer* - Azion | *Data Science Student* - Sigmoidal
 
 Sou analista de desenvolvimento de software pleno na [Azion](https://www.azion.com) e estudante de Data Science na escola [Sigmoidal](https://sigmoidal.ai).
 
