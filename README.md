@@ -20,8 +20,6 @@ Na área de pesquisa acadêmica, trabalhei em projetos nos IFRS campi Restinga e
 
 [CV Lattes](http://lattes.cnpq.br/5523615522413408)
 
-**Hard Skills:** Python, JavaScript, SQL.
-
 **Perfis:**
 * [Linktree](https://linktr.ee/rodrigomariamorgao)
 * [LinkedIn](https://www.linkedin.com/in/rodrigomariamorgao)
