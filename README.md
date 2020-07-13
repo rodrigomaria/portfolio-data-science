@@ -3,10 +3,6 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rodrigomariamorgao/portfolio_data_science/issues)
 
-<p align="center">
-  <img src="banner.png" >
-</p>
-
 # Rodrigo Maria Morgão
 <sub>*Software Developer* na Azion</sub> | <sub>*Data Science Student* na Sigmoidal</sub>
 
