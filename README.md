@@ -1,7 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/-rodrigomariamorgao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigomariamorgao)](https://www.linkedin.com/in/rodrigomariamorgao)
-[![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rodrigomariamorgao/portfolio_data_science/issues)
+![Linkedin Badge](https://img.shields.io/badge/-rodrigomariamorgao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigomariamorgao)
+![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label&link=https://medium.com/@rodrigomariamorgao)
 
 <p align="center">
   <img src="banner2.png" >
@@ -18,13 +16,12 @@ Tenho experiências profissionais nas linguagens Python, JavaScript, SQL, juntam
 
 Na área de pesquisa acadêmica, trabalhei em projetos nos IFRS campi Restinga e Porto Alegre, na área de análise e desenvolvimento de sistemas utilizando linguagens Java e Python. Entusiasta na área de análise de dados, onde realizo cursos online sobre metodologias e ferramentas de BI.
 
-[CV Lattes](http://lattes.cnpq.br/5523615522413408)
-
 **Perfis:**
 * [Linktree](https://linktr.ee/rodrigomariamorgao)
 * [LinkedIn](https://www.linkedin.com/in/rodrigomariamorgao)
 * [Medium](https://medium.com/@rodrigomariamorgao)
 * [Dev](https://dev.to/rodrigomariamorgao)
+* [CV Lattes](http://lattes.cnpq.br/5523615522413408)
 
 ## Projetos e Publicações:
 * [**Analisando os Dados do Airbnb: Tokyo**](https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Analisando_os_Dados_do_Airbnb_Tokyo.ipynb)
