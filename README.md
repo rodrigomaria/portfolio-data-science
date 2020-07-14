@@ -1,5 +1,5 @@
-![Linkedin Badge](https://img.shields.io/badge/-rodrigomariamorgao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigomariamorgao)
-![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label&link=https://medium.com/@rodrigomariamorgao)
+[![Linkedin Badge](https://img.shields.io/badge/-rodrigomariamorgao-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigomariamorgao)
+[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label=rodrigomariamorgao)](https://medium.com/@rodrigomariamorgao)
 
 <p align="center">
   <img src="banner2.png" >
