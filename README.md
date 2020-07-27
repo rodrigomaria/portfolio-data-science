@@ -2,7 +2,7 @@
 [![Medium Badge](https://badgen.net/badge/icon/rodrigomariamorgao?icon=medium&label)](https://medium.com/@rodrigomariamorgao)
 
 <p align="center">
-  <img src="banner2.png" >
+  <img src="https://github.com/rodrigomariamorgao/portfolio_data_science/raw/master/banner2.png" >
 </p>
 
 # Rodrigo Maria Morgão
@@ -16,12 +16,15 @@ Tenho experiências profissionais nas linguagens Python, JavaScript, SQL, juntam
 
 Na área de pesquisa acadêmica, trabalhei em projetos nos IFRS campi Restinga e Porto Alegre, na área de análise e desenvolvimento de sistemas utilizando linguagens Java e Python. Entusiasta na área de análise de dados, onde realizo cursos online sobre metodologias e ferramentas de BI.
 
+[CV Lattes](http://lattes.cnpq.br/5523615522413408)
+
+**Hard Skills:** Python, JavaScript, SQL.
+
 **Perfis:**
 * [Linktree](https://linktr.ee/rodrigomariamorgao)
 * [LinkedIn](https://www.linkedin.com/in/rodrigomariamorgao)
 * [Medium](https://medium.com/@rodrigomariamorgao)
 * [Dev](https://dev.to/rodrigomariamorgao)
-* [CV Lattes](http://lattes.cnpq.br/5523615522413408)
 
 ## Projetos e Publicações:
 * [**Analisando os Dados do Airbnb: Tokyo**](https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Analisando_os_Dados_do_Airbnb_Tokyo.ipynb)
