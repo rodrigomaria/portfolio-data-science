@@ -2,7 +2,7 @@
 [![Medium Badge](https://badgen.net/badge/icon/rodrigomariamorgao?icon=medium&label)](https://medium.com/@rodrigomariamorgao)
 
 <p align="center">
-  <img src="https://github.com/rodrigomariamorgao/portfolio_data_science/raw/master/banner2.png" >
+  <img src="https://github.com/rodrigomariamorgao/portfolio_data_science/raw/master/banner.png" >
 </p>
 
 # Rodrigo Maria Morgão
