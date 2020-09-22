@@ -32,3 +32,4 @@ Na área de pesquisa acadêmica, trabalhei em projetos nos IFRS campi Restinga e
 * [**Panorama de casos do COVID-19 no Brasil - 06/2020**](https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Panorama_de_casos_do_COVID_19_no_Brasil_06_2020.ipynb)
 * [**Análise de dados Pulseira MiBand**](https://github.com/rodrigomariamorgao/portfolio_data_science/tree/master/streamlit_miband)
 * [**Série aprendendo_python**](https://medium.com/@rodrigomariamorgao/aprendendo-python-01-vari%C3%A1veis-5fd4298fa4e2?source=your_stories_page---------------------------)
+* [**Detecção de Fraudes em Cartões de Crédito**](https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
