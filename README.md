@@ -10,11 +10,9 @@
 
 Sou analista de desenvolvimento de software pleno na [Azion](https://www.azion.com) e estudante de Data Science na escola [Sigmoidal](https://sigmoidal.ai).
 
-Minha trajetória profissional iniciou-se informalmente aos 18 anos de idade, como professor em uma escola itinerante de informática. Após essa experiência, tive a oportunidade de meu primeiro emprego CLT, onde iniciei como auxiliar de escritório e, de acordo com as oportunidades, cheguei ao cargo de diretor de vídeo e TI. Também atuei como analista e desenvolvedor de sistemas tanto no regime bolsista, estágio e CLT.
+Minha trajetória profissional iniciou-se informalmente aos 18 anos de idade, como professor em uma escola itinerante de informática. Após essa experiência, tive a oportunidade de meu primeiro emprego CLT, onde iniciei como auxiliar de escritório e, de acordo com as oportunidades, cheguei ao cargo de diretor de vídeo e TI. Após essa experiência, atuei em empresas como analista e desenvolvedor de sistemas nos regimes bolsista, estágio e CLT, utilizando linguagens de programação Python, JavaScript e SQL, metodologia BPM e criação de dashboards de BI.
 
-Tenho experiências profissionais nas linguagens Python, JavaScript, SQL, juntamente com experiências acadêmicas em C, C++, C#, React Native, Angular e Java.
-
-Na área de pesquisa acadêmica, trabalhei em projetos nos IFRS campi Restinga e Porto Alegre, na área de análise e desenvolvimento de sistemas utilizando linguagens Java e Python. Entusiasta na área de análise de dados, onde realizo cursos online sobre metodologias e ferramentas de BI.
+Na trajetória acadêmica, trabalhei em projetos de pesquisa nos campi IFRS Restinga e IFRS Porto Alegre utilizando linguagens Java e Python. Também adquiri conhecimentos nas linguagens como Java, C, C++, C# e React Native.
 
 [CV Lattes](http://lattes.cnpq.br/5523615522413408)
 
