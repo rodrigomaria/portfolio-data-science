@@ -31,3 +31,4 @@ Na trajetória acadêmica, trabalhei em projetos de pesquisa nos campi IFRS Rest
 * [**Análise de dados Pulseira MiBand**](https://github.com/rodrigomariamorgao/portfolio_data_science/tree/master/streamlit_miband)
 * [**Série aprendendo_python**](https://medium.com/@rodrigomariamorgao/aprendendo-python-01-vari%C3%A1veis-5fd4298fa4e2?source=your_stories_page---------------------------)
 * [**Detecção de Fraudes em Cartões de Crédito**](https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
+* [**QODA Maratona Data Science**](https://github.com/rodrigomariamorgao/qoda-maratona-data-science)
