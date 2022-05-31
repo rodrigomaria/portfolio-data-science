@@ -8,11 +8,11 @@
 # Rodrigo Maria Morgão
 ### *Software Developer* na Azion | *Data Science Student* na Sigmoidal
 
-Sou analista de desenvolvimento de software pleno na [Azion](https://www.azion.com) e estudante de Data Science na escola [Sigmoidal](https://sigmoidal.ai).
+Casado e pai de dois filhos lindos. Atuo como Senior Software Developer Analyst III na Azion [Azion](https://www.azion.com) e estudante de Data Science na escola de Data Science e Machine Learning Sigmoidal [Sigmoidal](https://sigmoidal.ai).
 
-Minha trajetória profissional iniciou-se informalmente aos 18 anos de idade, como professor em uma escola itinerante de informática. Após essa experiência, tive a oportunidade de meu primeiro emprego CLT, onde iniciei como auxiliar de escritório e, de acordo com as oportunidades, cheguei ao cargo de diretor de vídeo e TI. Após essa experiência, atuei em empresas como analista e desenvolvedor de sistemas nos regimes bolsista, estágio e CLT, utilizando linguagens de programação Python, JavaScript e SQL, metodologia BPM e criação de dashboards de BI.
+Tenho 20 anos de experiência profissional atuando nas áreas de suporte à TI, artes visuais e desenvolvimento de sistemas, atuando como prestador de suporte em ambientes Windows e MacOS, edição de vídeo e análise/programação de sistemas utilizando linguagens de programação Python, JavaScript e SQL, metodologia BPM e criação de dashboards de BI.
 
-Na trajetória acadêmica, trabalhei em projetos de pesquisa nos campi IFRS Restinga e IFRS Porto Alegre utilizando linguagens Java e Python. Também adquiri conhecimentos nas linguagens como Java, C, C++, C# e React Native.
+Academicamente atuei em projetos de pesquisa nos campi do IFRS Restinga e Porto Alegre utilizando linguagens Java e Python. Também adquiri conhecimentos nas linguagens Java, C, C++, C# e React Native durante os períodos de graduação.
 
 [CV Lattes](http://lattes.cnpq.br/5523615522413408)
 
